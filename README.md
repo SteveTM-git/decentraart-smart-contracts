@@ -115,7 +115,6 @@ For questions and support, please open an issue in the GitHub repository.
 Disclaimer
 This is a testnet deployment for educational and demonstration purposes. Use at your own risk.
 
----
 
-**`nft-marketplace-frontend/README.md`:**
-```markdown
+
+
